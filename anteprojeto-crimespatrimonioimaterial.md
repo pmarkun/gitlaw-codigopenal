@@ -6,11 +6,11 @@ Em  relação  aos  autores  de  inventos  industriais,  atribui 
 
 Assegura,  ainda,  como  patrimônio  cultural  brasileiro  de  natureza  “os  bens  de   natureza  material  e  imaterial,  tomados individualmente  ou  em conjunto, portadores   de  referência  à  identidade, à  ação, à  memória  dos diferentes  grupos formadores da sociedade brasileira, nos quais se incluem:  I - as formas de expressão; II - os modos de  criar, fazer e  viver; III - as criações científicas, artísticas e tecnológicas; IV  -  as   obras,  objetos,  documentos,  edificações  e  demais  espaços  destinados  às   manifestações artístico-culturais; V -os conjuntos urbanos e sítios de valor histórico, paisagístico, artístico, arqueológico, paleontológico, ecológico e científico.” A fim  de  proteger  esse  patrimônio  cultural, a  Constituição  Federal  determina  a   punição estabelecida em lei.
 
-As  sugestões  apresentadas,  especialmente  a  supressão  do  tipo  penal  aberto (artigo  184, *caput*,  do  Código  Penal  de  1940, têm  o  fim  de  evitar  a  aplicação  do   Direito Penal como primeira opção de tutela do direito do autor.
+As  sugestões  apresentadas,  especialmente  a  supressão  do  tipo  penal  aberto (artigo  184, *caput*, do  Código  Penal  de  1940, têm  o  fim  de  evitar  a  aplicação  do   Direito Penal como primeira opção de tutela do direito do autor.
 
 A  definição  dos direitos  autorais pelo  artigo  1o  da  Lei  9.610/1998,  como  “os direitos de autor e os que lhe são conexos”, enseja a adoção da terminologia adequada na redação do artigo 184, *caput*, do Código Penal para descrever a conduta de violar direito autoral, mediante reprodução ou publicação que se apresenta como elo inicial   para que outras infrações sejam praticadas.
 
-No entorno dessa conduta se forma uma estrutura organizada, a fim de cometer crimes de diversas espécies, não apenas contra a propriedade imaterial, mas também condutas indesejadas socialmente  como  o tráfico de  drogas e  de  pessoas, o trabalho escravo,  o  contrabando  e  o  descaminho,  entre  outras  infrações  com  aspecto transnacional.  Adota-se como  pena  a  prisão  de  um  a  três  anos  para  coibir  esse comportamento.  
+No entorno dessa conduta se forma uma estrutura organizada, a fim de cometer crimes de diversas espécies, não apenas contra a propriedade imaterial, mas também condutas indesejadas socialmente  como  o tráfico de  drogas e  de  pessoas, o trabalho escravo,  o  contrabando  e  o  descaminho,  entre  outras  infrações  com  aspecto transnacional. Adota-se como  pena  a  prisão  de  um  a  três  anos  para  coibir  esse comportamento.  
 Previu-se  como  infração  de  maior  gravidade  a  de  quem  fizer  uso  da  rede   mundial de computadores ou qualquer outro meio que permita ao usuário selecionar a obra ou a  produção para recebe-la em tempo  e lugar determinados, sem autorização do titular do direito autoral, o que possibilita  a  tutela dos direitos autorais, a  fim de   evitar a prática de condutas por meio dos atuais (p.ex. disponibilidade de download) e futuros recursos tecnológicos, cominando pena de dois a quatro anos.
 
 Ao  lado  dessa, de  igual  gravidade,  por  razões  de  política  criminal,  reside  a   infração  penal  de  divulgação,  distribuição,  venda,  exposição  à  venda,  locação,   introdução no País, aquisição, manutenção em depósito, com o fim de lucro, original   ou  cópia  de  obra  intelectual,  fonograma    ou  videofonograma,  produzidos  com   violação de direito autoral.  
@@ -53,7 +53,7 @@ As  condições  pessoais  do  agente  e  a  magnitude  da  va
 
 Por  fim,  adota-se  como  regra  geral  para  os  Crimes  Contra  a  Propriedade  Imaterial  a  ação penal  pública  condicionada  à representação, exceto  na  hipótese  de uso  indevido  de  sinais  públicos.  Pauta-se  na  hermenêutica  constitucional,  que expressa  uma  tendência  em  restringir  as  hipóteses  de  ação  penal  privada  no   ordenamento  jurídico  brasileiro, admitindo-a, desde  que  concorrente  com a  pública condicionada  à  representação, quando  a  ofensa  ao bem jurídico penal  diga  respeito aos direitos da personalidade, especialmente à honra das pessoas.
 
- 	**Marco Antonio Marques da Silva**
+**Marco Antonio Marques da Silva**
  
 ### Violação de direito autoral  
 
